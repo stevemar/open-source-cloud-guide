@@ -1,11 +1,5 @@
 # Definitions
 
-## Common definition
-
-* Not canonical but to help level set discussions
-* Information for more detail definition provided
-* Common agreed-upon in industry
-
 ## Hybrid-cloud
 
 * Ability and flexibility of running parts or all of your cloud solution and services on premise and / or on a public cloud
