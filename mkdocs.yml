@@ -34,6 +34,8 @@ theme:
     logo: material/library
   features:
     - navigation.instant
+    - navigation.expand
+    - navigation.top
   palette:
     scheme: default
     primary: black

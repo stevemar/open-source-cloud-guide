@@ -1,25 +1,32 @@
 # Databases
 
-What are containers?
+## What are databases
+
+Databases store data.
+
+## Key open source projects
+
+* MySQL
+
+## Why do databases matter in an open source cloud?
+
+This should _cite something from the survey_
+
+## Cloud comparison (as tabs)
 
 === "IBM Cloud"
 
-    IKS
+    * MySQL
+    * Db2
 
 === "GCP"
 
-    GKE
+    * MySQL
 
 === "AWS"
 
-    EKS
+    * RDB
 
 === "Azure"
 
-    AKS
-
-Or maybe this is better as a table
-
-| IBM Cloud | GCP | AWS | Azure |
-| - | - | - | - |
-| IKS | GKE | EKS | AKS |
+    * SQL
