@@ -1,6 +1,6 @@
-# AI
+# Artificial Intelligence
 
-## What is AI
+## What is Artificial Intelligence
 
 AI needs data.
 

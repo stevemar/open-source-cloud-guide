@@ -15,7 +15,7 @@ nav:
   - Guide:
     - Containers: containers/README.md
     - Databases: databases/README.md
-    - AI: ai/README.md
+    - Artificial Intelligence: ai/README.md
   - Extras:
     - Definitions: DEFINITIONS.md
 
