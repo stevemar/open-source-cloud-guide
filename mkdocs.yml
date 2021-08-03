@@ -14,8 +14,8 @@ nav:
     - About this guide: README.md
   - Guide:
     - Containers: containers/README.md
-    - AI: ai/README.md
     - Databases: databases/README.md
+    - AI: ai/README.md
   - Extras:
     - Definitions: DEFINITIONS.md
 
@@ -33,9 +33,7 @@ theme:
   icon:
     logo: material/library
   features:
-    - navigation.instant
     - navigation.expand
-    - navigation.top
   palette:
     scheme: default
     primary: black

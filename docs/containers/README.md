@@ -1,11 +1,5 @@
 # Containers
 
-Give a brief overview of the technology
-Indicate what are the popular open source projects in that space
-Reference some data/aspect/result of the survey
-Compare and contrast how major CSPs (IBM Cloud, GCP, Azure, AWS) are using open source for their services
-Links to external sites to learn about the tech
-
 ## What are containers
 
 Containers are run in Kubernetes.
@@ -22,19 +16,23 @@ This should _cite something from the survey_
 
 === "IBM Cloud"
 
-    IKS
+    * IKS
+    * ICR
 
 === "GCP"
 
-    GKE
+    * GKE
+    * GCR
 
 === "AWS"
 
-    EKS
+    * EKS
+    * ACR
 
 === "Azure"
 
-    AKS
+    * AKS
+    * ACR
 
 ## Cloud comparision (as a table)
 
