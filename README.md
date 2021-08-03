@@ -1,24 +1,10 @@
-# Hands on with OpenShift on IBM Cloud
+# Open Source Cloud Guide
 
-This is the repository for the OpenShift 101 workshop presented by IBM
+See: <https://stevemar.github.io/open-source-cloud-guide/>
 
-* [docs](./docs) -- the vanilla code for the code of the workshop
-
-## Other IBM Workshops
-
-Many people and groups worked on the following workshops and classes, parts of which have ended up here.
-
-* <https://github.com/beemarie/kube-code-camp>
-* <https://gitlab.com/ibm/kube101>
-* <https://github.com/ibm/kube101>
-* <https://github.com/ibm/istio101>
-
-## License & Authors
+## License
 
 If you would like to see the detailed LICENSE click [here](LICENSE).
-
-* Author: Sai Vennam <svennam@us.ibm.com>, IBM Cloud Offering Manager
-* Maintainers: Developer Advocates from IBM Cloud
 
 ```text
 Copyright:: 2019- IBM, Inc
