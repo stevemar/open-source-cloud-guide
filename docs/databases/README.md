@@ -11,7 +11,7 @@ Databases store data.
 
 ## Why do databases matter in an open source cloud?
 
-![survey results](images/survey-databases.png)
+![survey results](../images/survey-databases.png)
 
 ## Cloud comparison (as tabs)
 

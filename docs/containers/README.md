@@ -12,9 +12,9 @@ Containers are run in Kubernetes.
 
 ## Why do containers matter in an open source cloud?
 
-![survey results](images/survey-containers.png)
+![survey results](../images/survey-containers.png)
 
-![survey results](images/survey-kubernetes.png)
+![survey results](../images/survey-kubernetes.png)
 
 ## Cloud comparison (as tabs)
 

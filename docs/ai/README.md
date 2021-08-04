@@ -14,7 +14,7 @@ AI needs data.
 
 ## Why does AI matter in an open source cloud?
 
-![survey results](images/survey-ai.png)
+![survey results](../images/survey-ai.png)
 
 ## Cloud comparison (as tabs)
 
