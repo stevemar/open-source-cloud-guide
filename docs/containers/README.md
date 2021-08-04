@@ -7,10 +7,14 @@ Containers are run in Kubernetes.
 ## Key open source projects
 
 * Kubernetes
+* Quay
+* Docker
 
 ## Why do containers matter in an open source cloud?
 
-This should _cite something from the survey_
+![survey results](images/survey-containers.png)
+
+![survey results](images/survey-kubernetes.png)
 
 ## Cloud comparison (as tabs)
 

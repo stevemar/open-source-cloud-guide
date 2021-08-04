@@ -8,10 +8,13 @@ AI needs data.
 
 * PyTorch
 * Tensorflow
+* ONNX
+* Spark
+* Keras
 
 ## Why does AI matter in an open source cloud?
 
-This should _cite something from the survey_
+![survey results](images/survey-ai.png)
 
 ## Cloud comparison (as tabs)
 

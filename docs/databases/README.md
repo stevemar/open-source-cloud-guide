@@ -7,10 +7,11 @@ Databases store data.
 ## Key open source projects
 
 * MySQL
+* MongoDB
 
 ## Why do databases matter in an open source cloud?
 
-This should _cite something from the survey_
+![survey results](images/survey-databases.png)
 
 ## Cloud comparison (as tabs)
 
