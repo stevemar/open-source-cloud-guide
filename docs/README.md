@@ -6,25 +6,22 @@ Enterprises are increasingly using more than one cloud in their IT solutions, a 
 
 The most desirable open source skills are those related to Linux (containers), artificial intelligence and machine learning, and data storage. 
 
-As both the cloud and open source landscapes evolve, we saw a need for a guide to highlight important aspects of hybrid cloud development--and their corresponding open source services.
+As both the cloud and open source landscapes evolve, we saw a need for a guide to highlight important aspects of hybrid cloud and multiclodu development--and their corresponding open source services.
 
 This goals of this guide are to provide:
 
-1. Comprehensive collection of learnings for open hybrid cloud developers.
-2. Content that is cloud-agnostic but highlights how major clouds are using open source.
-3. Solutions and content focused on solving use cases that are common to developers.
+1. Comprehensive learning for hybrid cloud and multicloud developers.
+2. An agnostic view of how various clouds are using open source in their offerings.
 
-## What's leading to multi-cloud adoption?
+## What's leading to multicloud and hybrid cloud adoption?
 
-The rise of multi-cloud and hybrid cloud adoption is related to a number of factors, including:
+In short, the answer is: Choice. Businesses want the ability to choose the best platform and services that will give them a competitive advantage. Other factors contributing to the rise of mulitcloud and hybrid cloud development include:
 
-* Multi-cloud is a reality as all clouds have strengths and weaknesses
-* Spreading workloads across clouds reduce risks vs a mono-cloud approach
-* Using different clouds may reduce costs in long term
+* Each cloud has inherent strengths and weaknesses. Using a mulitcloud approach to development allows you to take advantage of the strengths of multiple clouds. 
+* Spreading workloads across clouds reduces risk.
+* Using different clouds may reduce costs in the long term.
 
-> An open hybrid cloud combines and unifies public cloud and private cloud services from multiple cloud vendors to create a single, flexible IT infrastructure, based on open source technologies. Learn more about [What is Hybrid Cloud?](https://www.ibm.com/cloud/learn/hybrid-cloud).
-
-## Developer Needs
+## Developer needs
 
 * Developers have different needs from cloud providers depending on the developer’s experience
 * Developers have specific use cases they have to implement
