@@ -10,7 +10,7 @@
 
 ## Multi-cloud
 
-* Running parts or all of a cloud solutions in multiple clouds. 
+* Running parts or all of a cloud solutions in multiple clouds.
 * Ability and flexibility to move certain parts of a cloud solution to different cloud providers.
 * The opposite of mono-cloud.
 

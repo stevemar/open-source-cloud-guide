@@ -4,7 +4,7 @@ Enterprises are increasingly using more than one cloud in their IT solutions, a 
 
  > _Developers who want to develop cloud applications should work on honing their open source skills, which underly every major cloud platform, instead of only focusing on building skills for a proprietary cloud_.
 
-The most desirable open source skills are those related to Linux (containers), artificial intelligence and machine learning, and data storage. 
+The most desirable open source skills are those related to Linux (containers), artificial intelligence and machine learning, and data storage.
 
 As both the cloud and open source landscapes evolve, we saw a need for a guide to highlight important aspects of hybrid cloud and multiclodu development--and their corresponding open source services.
 
@@ -23,7 +23,7 @@ In each section of the guide you will find:
 
 In short, the answer is: Choice. Businesses want the ability to choose the best platform and services that will give them a competitive advantage. Other factors contributing to the rise of mulitcloud and hybrid cloud development include:
 
-* Each cloud has inherent strengths and weaknesses. Using a mulitcloud approach to development allows you to take advantage of the strengths of multiple clouds. 
+* Each cloud has inherent strengths and weaknesses. Using a mulitcloud approach to development allows you to take advantage of the strengths of multiple clouds.
 * Spreading workloads across clouds reduces risk.
 * Using different clouds may reduce costs in the long term.
 
