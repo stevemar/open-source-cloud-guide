@@ -13,6 +13,12 @@ This goals of this guide are to provide:
 1. Comprehensive learning for hybrid cloud and multicloud developers.
 2. An agnostic view of how various clouds are using open source in their offerings.
 
+In each section of the guide you will find:
+
+- An introduction to the basic concepts related to cloud use cases.
+- Information about how certain clouds take advantage of open source solutions related to those use cases.
+- Additional learning resources so you can further your understanding.
+
 ## What's leading to multicloud and hybrid cloud adoption?
 
 In short, the answer is: Choice. Businesses want the ability to choose the best platform and services that will give them a competitive advantage. Other factors contributing to the rise of mulitcloud and hybrid cloud development include:
@@ -21,9 +27,19 @@ In short, the answer is: Choice. Businesses want the ability to choose the best 
 * Spreading workloads across clouds reduces risk.
 * Using different clouds may reduce costs in the long term.
 
-## Developer needs
+Developers benefit from multicloud development because it offers them the ability to:
 
-* Developers have different needs from cloud providers depending on the developer’s experience
-* Developers have specific use cases they have to implement
-* Developers need a cloud or clouds that do not lock them in
-* Developers need a cloud or clouds that will grow with their needs
+* Make an impact immediately using the cloud skills they have, while growing their skills in other clouds
+* Implement specific use cases for their work
+* Choose the cloud environment or services that work best for the problem they're solving
+* Choose cloud services that will grow with their needs
+
+## Use cases for cloud development
+
+This guide walks you through common use cases that you will encounter as a cloud developer, including:
+
+- Coordinating your team's development, testing, and DevOps practices
+- Extending cloud services with AI
+- Exposing a service API
+- Building and using containers
+- Planning, preparing, and using data storage
